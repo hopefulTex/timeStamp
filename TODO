@@ -1,0 +1,14 @@
+[ ] make pretty
+  [ ] fix width
+  [ ] choose proper colors
+  [ ] title, panel titles
+[ ] iCal import
+[ ] (datePicker) visual calendar
+[ ] (modePicker) add Clipboard support
+[ ] (modePicker) import time from pasted timestamp
+[ ] Reorginize for minimal module-bleed
+[ ] Add timestamp history
+[ ] Mouse Support
+[ ] Screenshots / VHS for README
+[ ] README
+[ ] Clean up code
